@@ -50,7 +50,6 @@ const Cards = ({ data: { confirmed, recovered, deaths, lastUpdate } }) => {
               Recovered
             </Typography>
             <Typography varient="h5">
-              {" "}
               <CountUp
                 start={0}
                 end={recovered.value}
