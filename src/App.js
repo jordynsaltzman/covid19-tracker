@@ -29,7 +29,6 @@ class App extends React.Component {
         <div className={styles.container}>
           <img className={styles.logo} src={covidLogo} alt="covid-19" />
           <Typography variant="h4">{country} Stats</Typography>
-    
           <Cards data={data} />
           <CountryPicker handleCountryChange={this.handleCountryChange} />
           <Chart data={data} country={country} />
@@ -46,6 +45,7 @@ const theme = createMuiTheme({
     fontFamily: ["'PT Sans', sans-serif"].join(","),
     h4: {
       textTransform: "uppercase",
+      fontWeight: "bold",
     },
   },
 });
