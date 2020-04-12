@@ -2,6 +2,8 @@
 
 A COVID-19 tracker app built with React.js, Chart.js, and Material UI.
 
+View API used in this project [here.](https://covid19.mathdro.id/api)
+
 Visit deployed application [here.](https://track-covid19-cases.herokuapp.com/)
 
 ## Description
