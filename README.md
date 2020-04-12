@@ -1,6 +1,7 @@
 # COVID-19 Tracker
 
 A COVID-19 tracker app built with React.js, Chart.js, and Material UI.
+Visit deployed application [here.](https://track-covid19-cases.herokuapp.com/)
 
 ## Description
 
