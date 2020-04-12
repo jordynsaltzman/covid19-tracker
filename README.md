@@ -10,4 +10,4 @@ While the Coronavirus pandemic continues to impact health and economic well-bein
 
 ## Preview
 
-![screenshot](./src/images/screenshot.JPG)
+![screenshot](./client/src/images/screenshot.JPG)
